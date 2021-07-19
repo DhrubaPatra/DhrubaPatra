@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **dhruba.patra.cse23@heritageit.edu.in**
 
-- ⚡ Fun fact **I learnt more from the internet though I am CS major**
+- ⚡ Fun fact **I learnt more from the internet though I am a CS major**
 
 
 <h3 align="left">Languages and Tools:</h3>
