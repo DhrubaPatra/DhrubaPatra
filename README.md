@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhruv</h1>
-<h3 align="center">A undergraduate student working on database systems</h3>
+<h3 align="center">An undergraduate student working on database systems</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhrubapatra&label=Profile%20views&color=0e75b6&style=flat" alt="dhrubapatra" /> </p>
 
