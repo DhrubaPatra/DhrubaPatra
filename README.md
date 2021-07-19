@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React JS**
 
-- 💬 Ask me about **anime and binary trees.:)**
+- 💬 Ask me about **anime and binary trees and where not to use Machine Learning:)**
 
 - 📫 How to reach me **dhruba.patra.cse23@heritageit.edu.in**
 
